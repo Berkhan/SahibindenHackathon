@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Sahibinden Hackathon</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="want_to_help">Yardım Etmek İstiyorum</string>
+    <string name="need_help">Yardıma İhtiyacım Var</string>
+    <string name="name_surname">Ad Soyad</string>
+    <string name="phone_number">İletişim No</string>
+    <string name="identity_no">Tc No</string>
+
+
+    <string name="money">Para</string>
+    <string name="vehicle_car">Araba</string>
+    <string name="vehicle_truck">Tır</string>
+    <string name="vehicle_motorcycle">Motorsiklet</string>
+    <string name="goods">Eşya</string>
+    <string name="food">Gıda</string>
+    <string name="other">Diğer</string>
+    <string name="requirement">İhtiyaç</string>
+    <string name="city">Şehir</string>
+    <string name="district">İlçe</string>
+    <string name="neighbourhood">Mahalle</string>
+    <string name="quantity">Adet / Miktar</string>
+    <string name="note">Not</string>
+    <string name="btn_send_request">İsteği Gönder</string>
+    <string name="RequestUnexpectedError">Beklenmeyen bir hata oluştu.</string>
+    <string name="request_success_information">Talep İletildi.</string>
+    <string name="request_fail_information">Talep İletilirken sorun oluştu.</string>
+
+
+    <string-array name="requirements">
+        <item>@string/vehicle_car</item>
+        <item>@string/vehicle_truck</item>
+        <item>@string/vehicle_motorcycle</item>
+        <item>@string/goods</item>
+        <item>@string/food</item>
+        <item>@string/other</item>
+    </string-array>
+
+</resources>

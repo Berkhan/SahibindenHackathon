@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/uro/.gradle/caches/transforms-3/4b9df7bd8d0ff1be112d46de18b244b3/transformed/core-1.7.0/res/layout/custom_dialog.xml" value="0.67" />
+        <entry key="..\:/Users/uro/AndroidStudioProjects/ToPublish/SahibindenHackathon/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.25729166666666664" />
+        <entry key="..\:/Users/uro/AndroidStudioProjects/ToPublish/SahibindenHackathon/app/src/main/res/drawable/ic_need_help.xml" value="0.3880208333333333" />
+        <entry key="..\:/Users/uro/AndroidStudioProjects/ToPublish/SahibindenHackathon/app/src/main/res/drawable/ic_want_to_help.xml" value="0.3880208333333333" />
+        <entry key="..\:/Users/uro/AndroidStudioProjects/ToPublish/SahibindenHackathon/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/uro/AndroidStudioProjects/ToPublish/SahibindenHackathon/app/src/main/res/layout/basic_list_item.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/uro/AndroidStudioProjects/ToPublish/SahibindenHackathon/app/src/main/res/layout/custom_layout.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/uro/AndroidStudioProjects/ToPublish/SahibindenHackathon/app/src/main/res/layout/custom_response_dialog.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/uro/AndroidStudioProjects/ToPublish/SahibindenHackathon/app/src/main/res/layout/custom_view_layout.xml" value="0.30117753623188404" />
+        <entry key="..\:/Users/uro/AndroidStudioProjects/ToPublish/SahibindenHackathon/app/src/main/res/layout/fragment_help.xml" value="0.33" />
+        <entry key="..\:/Users/uro/AndroidStudioProjects/ToPublish/SahibindenHackathon/app/src/main/res/layout/fragment_home.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/uro/AndroidStudioProjects/ToPublish/SahibindenHackathon/app/src/main/res/layout/list_item.xml" value="0.33967391304347827" />
+        <entry key="..\:/Users/uro/AndroidStudioProjects/ToPublish/SahibindenHackathon/app/src/main/res/menu/requirement_menu.xml" value="0.371875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/notepadplus/sahibindenhackathon/data/asd.kt" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
